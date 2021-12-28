@@ -21,7 +21,7 @@ class _splashState extends State<splash> {
     return Scaffold(
       body: SafeArea(
           child: Container(
-        color: Colors.white,
+        color: Colors.red,
         child: Column(
           children: [
             SizedBox(
